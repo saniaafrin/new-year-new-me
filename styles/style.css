@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    
+}
+.header{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.banner{
+    margin: 0;
+    text-align: right;
+    background-image: url('..//images/banner/banner1.png');
+    background-size: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    padding: 20% 13% 20% 60%;
+    
+}
+
+
+
+.btn{
+    background: orangered;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+p{
+    font-size: 15px;
+}
+ul{
+    font-size: 15px;
+}
+
+.about-me{
+    margin: 0;
+    padding: 90px;
+    background-color: burlywood;
+}
+.about-header{
+    text-align: center;
+}
+
+
+.main{
+    display: flex;
+    width: 100%;
+    padding-top: 8%;
+    padding-left: 10%;
+    align-items: center;
+}
+
+.main-p{
+    padding-right: 40%;
+    padding-left: 150px;
+    text-align: left;
+}
+
+.plans{
+    margin: 50px;
+    text-align: center;
+}
+
+.plan-table{
+    padding-left: 90px;
+    width: 100%;
+    align-items: center;
+}
+
+.web{
+    padding: 40px;
+}
+.java{
+    padding: 40px;
+}
+.smoke{
+    padding: 40px;
+}
+.ecom{
+    padding: 40px;
+}
+
+#grad{
+    align-items: center;
+    height: 300px;
+    width: 70%;
+    margin: 40px;
+    margin-left: 200px;
+    background-image:
+    linear-gradient(to right, rgba(208, 68, 8, 0.884), rgba(198, 151, 186, 0.73)),
+    url('..//images/watch.png');
+
+  }
+
+  
+  .mindset{
+    color: white;
+    font-size: 20px;
+  }
+
+  .btn-1{
+    background: white;
+    color: orangered;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 18px;background-repeat: no-repeat;
+  }
+
+  /*Footer Table Styles*/
+  .footer-table{
+    background-color: black;
+    color: white;
+    width: 70%;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  .text{
+    padding: 9%;
+  }
+  .subs{
+    padding: 20% 20% 20% 2%;
+  }
+
